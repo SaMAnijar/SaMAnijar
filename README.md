@@ -1,8 +1,8 @@
-<h1 align="left">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> My name is Samuel Anijar.</h1>
+<h1 align="left">Hello World <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
 ###
 
-<p align="left">I'm from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Amazonas, Brasil</b>.<br><br>- 🔭 I'm looking for an internship.<br>- 📚 I'm currently learning Android development using Kotlin.<br>- ⚡ In my free time, I'm at the gym or playing games.</p>
+<p align="left">My name is Samuel Anijar. I'm from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Amazonas, Brasil</b>.<br><br>- 🔭 I'm looking for an internship.<br>- 📚 I'm currently learning Android development using Kotlin.<br>- ⚡ In my free time, I'm at the gym or playing games.</p>
 
 ###
 
